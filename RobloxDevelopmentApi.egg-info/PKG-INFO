@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: RobloxDevelopmentApi
+Version: 0.0.1
+Summary: A Basic module to link the roblox api with python intergration, primarily based on the requests library.
+Home-page: UNKNOWN
+Author: Jonathan Smit
+Author-email: sxctools@gmail.com
+License: MIT
+Description: A Basic module to link the roblox api with python intergration, primarily based on the requests library. For any help with the module, contact sxctools@gmail.com.
+Keywords: RobloxDevelopmentApi
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

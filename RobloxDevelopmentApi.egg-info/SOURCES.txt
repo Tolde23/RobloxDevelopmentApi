@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+RobloxDevelopmentApi/__init__.py
+RobloxDevelopmentApi.egg-info/PKG-INFO
+RobloxDevelopmentApi.egg-info/SOURCES.txt
+RobloxDevelopmentApi.egg-info/dependency_links.txt
+RobloxDevelopmentApi.egg-info/requires.txt
+RobloxDevelopmentApi.egg-info/top_level.txt
